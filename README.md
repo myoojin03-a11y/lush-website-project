@@ -10,14 +10,22 @@
 - 🔗 https://myoojin03-a11y.github.io/lush-website-project/
 
 
-### 데스크탑 화면
-![LUSH 웹사이트 데스크탑 화면](images/preview-desktop.png)
+## 📱 반응형 미리보기
 
-### 태블릿 화면
-![LUSH 웹사이트 태블릿 화면](images/preview-tablet.png)
+### 🖥️ 데스크탑 화면
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/786ee909-1b0d-4980-a98b-0e2d2df58fff" width="90%" />
+</p>
 
-### 모바일 화면
-![LUSH 웹사이트 모바일 화면](images/preview-mobile.png)
+### 📱 태블릿 화면
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6c367594-a331-48cf-9325-66e5f5fee244" width="70%" />
+</p>
+
+### 📱 모바일 화면
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41306feb-e922-429e-bb59-d1a58b8a618c" width="40%" />
+</p>
 
 ---
 
