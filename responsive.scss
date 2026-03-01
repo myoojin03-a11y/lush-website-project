@@ -1098,7 +1098,11 @@
     grid-auto-rows: auto;
   }
 }
-
+@media (max-width: 400px){
+   .home-feature .feature-title {
+    width: 300px;
+  }
+}
 @media (max-width: 767px) {
   .scroll-top {
     bottom: $spacing-md;

@@ -1475,6 +1475,11 @@ section {
     grid-auto-rows: auto;
   }
 }
+@media (max-width: 400px) {
+  .home-feature .feature-title {
+    font-size: 24px;
+  }
+}
 @media (max-width: 767px) {
   .scroll-top {
     bottom: 20px;
