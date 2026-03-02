@@ -1477,7 +1477,7 @@ section {
 }
 @media (max-width: 400px) {
   .home-feature .feature-title {
-    font-size: 24px;
+    width: 300px;
   }
 }
 @media (max-width: 767px) {
@@ -4723,7 +4723,7 @@ header .navbar .nav-brand a:hover .brand-text {
 
 .nav-actions .nav-icon.search-toggle:hover {
   color: #fff;
-  background: rgb(7.3092105263, 47.8421052632, 93.6907894737);
+  background: #e764aa;
 }
 
 .nav-actions .nav-icon.search-toggle:hover i,

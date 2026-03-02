@@ -3321,7 +3321,7 @@ header .navbar .nav-brand a:hover .brand-text {
 
 .nav-actions .nav-icon.search-toggle:hover {
   color: #fff;
-  background: rgb(7.3092105263, 47.8421052632, 93.6907894737);
+  background: $c-brand-main;
 }
 
 .nav-actions .nav-icon.search-toggle:hover i,
@@ -3407,6 +3407,8 @@ header .navbar .nav-brand a:hover .brand-text {
   height: 36px;
   background: $c-brand-main;
   color: #fff;
+
+  
   border: none;
   border-radius: 10px;
   cursor: pointer;
