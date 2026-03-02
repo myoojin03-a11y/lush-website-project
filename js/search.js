@@ -6,7 +6,7 @@
   const searchBtn = document.querySelector('.search-btn');
   const searchSuggestions = document.getElementById('searchSuggestions');
   const header = document.querySelector('.header');
-  const popularKeywords = ['무선이어폰', '스마트워치', '노트북', '태블릿', '키보드', '마우스', '모니터', '충전기', '스피커', '케이스'];
+  const popularKeywords = ['빅 샴푸', '슬리피 샤워 젤', '팬지 바디 로션', '프렌드십 케이크 솝', '수퍼 밀크 샴푸'];
 
   function openSearch() {
     document.body.classList.add('search-open');

@@ -69,7 +69,7 @@ function initSearchPanel() {
 
   if (!toggle || !panel || !input) return;
 
-  const popular = ['무선이어폰', '스마트워치', '노트북', '태블릿', '키보드'];
+  const popular = ['빅 샴푸', '슬리피 샤워 젤', '팬지 바디 로션', '프렌드십 케이크 솝', '수퍼 밀크 샴푸'];
 
   const open = () => {
     document.body.classList.add('search-open');

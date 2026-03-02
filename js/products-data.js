@@ -454,7 +454,7 @@ const productsData = {
         },
         {
             id: 7,
-            title: '바스마 바디스크럽',
+            title: '바스마 바디 스크럽',
             price: 22000,
             salePrice: 17600,
             discount: 20,
@@ -769,7 +769,7 @@ const productsData = {
         },
         {
             id: 12,
-            title: '수퍼밀크 샴푸',
+            title: '수퍼 밀크 샴푸',
             price: 26000,
             salePrice: 26000,
             discount: '',
