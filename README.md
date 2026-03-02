@@ -7,10 +7,12 @@
 - 러쉬 스타일에 맞게 상품 데이터와 페이지 콘텐츠를 구성하고,
 - 메인, 상품 목록, 베스트, 장바구니, 마이페이지, 상품 상세 페이지까지
 - HTML, SCSS, JavaScript로 화면 구성과 기본 동작을 구현한 프론트엔드 프로젝트입니다.
-- 🔗 https://myoojin03-a11y.github.io/lush-website-project/
 
+### 🌐 **배포 링크** 👉 [홈페이지 바로가기](https://myoojin03-a11y.github.io/lush-website-project/) -
 
-## 📱 반응형 미리보기
+---
+
+## 📱 구현 이미지
 
 ### 🖥️ 데스크탑 화면
 <p align="center">
