@@ -12,22 +12,30 @@
 
 ---
 
-## 📱 구현 이미지
+## 📱 스크린샷
 
-### 🖥️ 데스크탑 화면
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/786ee909-1b0d-4980-a98b-0e2d2df58fff" width="90%" />
-</p>
-
-### 📱 태블릿 화면
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6c367594-a331-48cf-9325-66e5f5fee244" width="70%" />
-</p>
-
-### 📱 모바일 화면
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/41306feb-e922-429e-bb59-d1a58b8a618c" width="40%" />
-</p>
+<table width="100%" style="border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th align="center" width="50%" style="padding: 8px 0;">Desktop</th>
+      <th align="center" width="25%" style="padding: 8px 0;">Tablet</th>
+      <th align="center" width="25%" style="padding: 8px 0;">Mobile</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" style="vertical-align: top; padding: 0;">
+        <img src="https://github.com/user-attachments/assets/786ee909-1b0d-4980-a98b-0e2d2df58fff" style="width: 100%; display: block;" />
+      </td>
+      <td valign="top" style="vertical-align: top; padding: 0;">
+        <img src="https://github.com/user-attachments/assets/6c367594-a331-48cf-9325-66e5f5fee244" style="width: 100%; display: block;" />
+      </td>
+      <td valign="top" style="vertical-align: top; padding: 0;">
+        <img src="https://github.com/user-attachments/assets/41306feb-e922-429e-bb59-d1a58b8a618c" style="width: 100%; display: block;" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
